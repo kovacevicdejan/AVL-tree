@@ -1,6 +1,6 @@
 # AVL-tree
-An implementation of an AVL tree with an interactive menu that has options for matrix generating,
-creating and deleting an AVL tree, key insertion, key finding, colorful tree printing and performance
-evaluation for key finding in AVL tree and matrix, implemented in C as a school assignment.
+- Implemented a set of AVL-tree algorithms in C for key nding and performance evaluation.
+- Created a function for intuitive and colorful tree printing that showcases the state of the AVL-tree.
+- Designed and wrote a command-line menu for interactive use of the above mentioned algorithms.
 
 ![Preview](preview.png)
